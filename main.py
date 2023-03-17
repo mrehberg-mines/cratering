@@ -160,7 +160,7 @@ def main(numCraters, maxCraterDiameter, materialStartHeight, rings):
 
 if __name__ == "__main__":
     dimension = 1000
-    numCraters = 8
+    numCraters = 800
     maxCraterDiameter = 300
     materialStartHeight = 0
     # the ring variable is the granularity of calcing the craters
