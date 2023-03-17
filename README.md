@@ -9,3 +9,5 @@ Getting a similar plot to the Moon's surface took a few trials. The main change 
 Some interesting takeaways are that the regolith and the protolith height can be mapped. This could, if expanded and applied much further, provide a way to estimate how deep regolith would be at given points on the a planet's or moon's surface given crater depictions. 
 
 There would likely have to be a lot of actual correlations to more physical properties added to practically use this simulation. 
+
+Note: The edges of the graph do not connect so as the number of craters increases beyond 3000 for a 1000 dimension graph, the edges and corners are stripped of all regolith as there are smaller changes for them to recieve new regolith. 
